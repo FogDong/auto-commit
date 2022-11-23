@@ -3,7 +3,7 @@ kind: Application
 metadata:
   name: my-app
   annotations:
-    app.oam.dev/publishVersion: fa34789c
+    app.oam.dev/publishVersion: 1c5349d4
 spec:
   components:
     - name: express-server
